@@ -27,7 +27,8 @@
     "rss": "^1.2.2",
     "sanitize-html": "^2.13.0",
     "tailwind-merge": "^2.4.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "url-join": "^5.0.0"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^15.0.2",
@@ -36,6 +37,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/rss": "^0.0.32",
+    "@types/url-join": "^4.0.3",
     "eslint": "^8",
     "eslint-config-next": "14.2.5",
     "postcss": "^8",
